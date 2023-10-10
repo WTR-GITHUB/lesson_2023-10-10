@@ -1,1 +1,2 @@
 # Turetu buti
+print("Labas")
