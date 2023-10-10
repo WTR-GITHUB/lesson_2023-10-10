@@ -1,2 +1,0 @@
-# Turetu buti
-print("Labas")
