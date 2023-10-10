@@ -12,3 +12,5 @@ elif sign_input == "*":
     print(f"Multiplication: {int_list[0]*int_list[1]}")
 elif sign_input == "/":
     print(f"Division: {int_list[0]/int_list[1]}")
+else:
+    print("Bad sign entered.")
